@@ -1,0 +1,1 @@
+const color = require('../lib/color.js');
