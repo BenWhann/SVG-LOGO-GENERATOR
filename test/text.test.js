@@ -1,1 +1,0 @@
-const text = require('../lib/text.js');
